@@ -272,8 +272,8 @@ def genSymbolWord(file_name):
     text += genTextTypeWord('公顷', '㏊')
     text += genTextTypeWord('马力', '㏋')
     text += genTextTypeWord('英寸', '㏌')
-    text += genTextTypeWord('', '㏍')
-    text += genTextTypeWord('', '㏎')
+    # text += genTextTypeWord('', '㏍')
+    # text += genTextTypeWord('', '㏎')
     text += genTextTypeWord('节', '㏏')
     text += genTextTypeWord('流明', '㏐')
     #text += genTextTypeWord('', '㏑')
@@ -409,4 +409,3 @@ def main():
 
 if __name__ == '__main__':
     exit(main())
-
