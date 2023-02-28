@@ -262,7 +262,7 @@ def genSymbolWord(file_name):
     text += genTextTypeWord('兆欧', '㏁')
     text += genTextTypeWord('上午', '㏂')
     text += genTextTypeWord('贝可', '㏃')
-    text += genTextTypeWord('立方厘米', '㏄')
+    # text += genTextTypeWord('', '㏄')
     text += genTextTypeWord('坎', '㏅')
     text += genTextTypeWord('坎德拉', '㏅')
     text += genTextTypeWord('库伦每千克', '㏆')
