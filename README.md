@@ -2,6 +2,10 @@
 
 本项目为 opencc 的配置文件，功能是将中文转换为符号，如“平方”转换为 ² ，以此来实现输入法快速输入特殊符号。是为[🍀️四叶草简体拼音](https://github.com/fkxxyz/rime-cloverpinyin)而设计的。
 
+## 最新自动build
+
+<a href="../../actions/">Build</a>
+
 ## 安装
 
 推荐直接使用[🍀️四叶草简体拼音](https://github.com/fkxxyz/rime-cloverpinyin)，自带该功能。
